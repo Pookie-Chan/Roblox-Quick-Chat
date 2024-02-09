@@ -1,3 +1,0 @@
-import time
-
-prin('hello")
